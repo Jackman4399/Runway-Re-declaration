@@ -12,6 +12,8 @@ be used to obtain a rapid indication of the effect of an obstruction on the runw
 whether operations can continue, and whether performing the calculations in accord with the official process is
 worthwhile. The tool will be used as an aid/guide. It cannot replace the official process.
 
+This project was a collaborative effort from 5 members.
+
 ## Authors
 
 - Jackson   (jl14u21@soton.ac.uk)
