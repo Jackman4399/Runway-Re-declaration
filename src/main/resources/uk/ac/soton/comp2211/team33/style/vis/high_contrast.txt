@@ -1,0 +1,16 @@
+#090909, grass
+#1E1E1E, cleared and graded area (top down only)
+#020202, runway body
+#FFFFFF, runway lines (top down only)
+#FF8000, threshold
+#FFFF00, stopway
+#FFA500, clearway
+#FFD700, accent (top down only)
+#FF0000, obstacles
+#FFFFFF, strokes
+#1E1E1E, sky (sideways view only)
+#2F2F2F, dust (sideways view only)
+#FF0000, ALS/TOCS (sideways view only)
+#00FF00, RESA (sideways view only)
+#00FFFF, safety distance (sideways view only)
+#FFFFFF, strokes (sideways)
